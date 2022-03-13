@@ -1,4 +1,4 @@
-## Pasang paket dan clone repository
+## Cara Install Sc Kont0l Ini Ditermos
 ```
 pkg update -y
 pkg upgrade -y
